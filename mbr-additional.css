@@ -586,9 +586,6 @@ a:hover {
 .note-check a[data-value=Rubik] {
   font-style: normal;
 }
-.mbr-arrow a {
-  color: #ffffff;
-}
 .form-control-label {
   position: relative;
   cursor: pointer;
